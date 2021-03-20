@@ -9,6 +9,7 @@ license_text: Courtesy of Unsplash
 categories:
   - Μοντέλα 
 tags:
-  - zoom 
+  - zoom
+  - conferencing 
 ---
 
