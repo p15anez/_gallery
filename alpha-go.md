@@ -1,14 +1,14 @@
 ---
 author: p15anez
-title: alpha-go
+title: tails
 year: 2014
-image_url: /images/alpha-go.jpg
-caption: 'To AlphaGo είναι λογισμικό το οποίο σχεδιάστηκε για να παίζει το επιτραπέζιο παιχνίδι Go. Το AlphaGo χρησιμοποιεί αλγόριθμους με δέντρα αναζήτησης Monte Carlo για να βρεί την καλύτερη δυνατή κίνηση βασισμένη στη γνώση που έχει αποκτήσει μέσω deep learning και πιο συγκεκριμένα μέσω τεχνητών νευρωνικών δικτύων (Artificial Neural Networks), η οποία αποκτήθηκε μετά από εκπαίδευση πάνω σε πολλά δεδομένα παιχνιδιών. Το 2017 το AlphaGo κατάφερε να νικήσει τον παγκόσμιο πρωταθλητή του παιχνιδιού σε ταμπλό 19χ19 σε μια παρτίδα best of 3.  '
-license_url: 'https://unsplash.com/license'
-license_text: Courtesy of Unsplash
+image_url: /images/tails.jpg
+caption: 'Το tails, ή αλλιως The Amnesic Incognito Live System, είναι λειτουργικό σύστημα βασισμένο στο debian, το οποίο έχει ως βασικό σκοπό τη διατήρηση της ιδιωτικότητας και της ανωνυμίας. Όλες οι εισερχόμενες και εξερχόμενες συνδέσεις του περνούν μέσα απο Tor, όπου μη ανώνυμες συνδέσεις απορρίπτονται. Το σύστημα μπορεί να εκκινηθεί μέσω live cd ή live usb, και δεν αφήνει ηλεκτρονικά ίχνη στο μηχάνημα στο οποίο χρησιμοποιείται, εκτός και αν θέλει ο χρήστης να αφήσει.  '
+license_url: 'https://tails.boum.org/contribute/how/promote/material/logo/'
+license_text: Courtesy of Tails
 categories:
   - Μοντέλα 
 tags:
-  - alphago
-  - ΑΙ
+  - tails
+  - OS
 ---
